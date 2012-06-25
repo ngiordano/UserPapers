@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ * Copyright (C) 2009 Google Inc.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ -->
+
+<resources>
+    <string-array name="wallpapers" translatable="false">
+        <item>alexanderl_1</item>
+        <item>alexanderl_2</item>
+        <item>bryanm_1</item>
+        <item>bryanm_2</item>
+        <item>engin_1</item>
+        <item>engin_2</item>
+        <item>engin_3</item>
+        <item>impostle</item>
+        <item>louallenw_1</item>
+        <item>louallenw_2</item>
+        <item>mmeave</item>
+        <item>nelson1</item>
+        <item>nelson2</item>
+        <item>nelson3</item>
+        <item>nelson4</item>
+        <item>nelson5</item>
+        <item>nelson6</item>
+        <item>nelson7</item>
+        <item>nelson8</item>
+        <item>nelson9</item>
+    </string-array>
+
+    <string-array name="info" translatable="false">
+        <item>Alexander Liki 1</item>
+        <item>Alexander Liki 2</item>
+        <item>Bryan Martinez 1</item>
+        <item>Bryan Martinez 2</item>
+        <item>Engin 1</item>
+        <item>Engin 2</item>
+        <item>Egin 3</item>
+        <item>Impostle</item>
+        <item>LouAllen Wheeler 1</item>
+        <item>LouAllen Wheeler 2</item>
+        <item>Mmeave</item>
+        <item>Nelson 1</item>
+        <item>Nelson 2</item>
+        <item>Nelson 3</item>
+        <item>Nelson 4</item>
+        <item>Nelson 5</item>
+        <item>Nelson 6</item>
+        <item>Nelson 7</item>
+        <item>Nelson 8</item>
+        <item>Nelson 9</item>
+    </string-array>
+</resources>
